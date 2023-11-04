@@ -4,7 +4,7 @@ A Mini CPC464
 
 ** Work In Progress **
 
-A miniaturised version of Amstrad CPC464 second release with extensions. The main intention to replace everything DIP with SMD as small as reasonably possible. With everything on it, it functions as a 6128. This project is very much a private hobby project at this stage. It's been uploaded because of general interest.
+A miniaturised version of Amstrad CPC464 second release with extensions. The main intention to replace everything DIP with SMD as small as reasonably possible. Latest versions, with everything on it, it functions as a 6128. This project is very much a private hobby project at this stage. It's been uploaded because of general interest.
 
 More of the project will be dropped in over time, kind of a place to sort out what's happened if you like, and what's working. There have been that many revisions/expansions - it's been getting hard to keep track.
 
