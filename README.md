@@ -14,6 +14,7 @@ The current version of the main board is v5.3, which uses the Xilinx based gate 
 
 ## Main Points
 
+* Regulated 5V operation (centre terminal positive).
 * The main board supports a full size original CPC464 Keyboard, not the later ones with the ribbon cables. An alternative PS/2 interface, which I expect most people will want to use is in the expansions folder.
 * All releases still use 4164 RAM chips. Attempts at replacing these have so far failed due to the dual data bus (separate in and out pins are needed). Any help appreciated on this front.
 * All resistors and ceramic capacitors are 0805.
