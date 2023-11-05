@@ -4,7 +4,7 @@ A Mini CPC464
 
 ** Work In Progress **
 
-** Photos to follow **
+![Build v5.2 Board with Edge Connector, PS/2 Interface and MINIDDI](https://github.com/Board-Folk/CPC464-2MINI/blob/main/Photos/v5.2_miniddi_ps2_edge_small.png)
 
 A miniaturised version of Amstrad CPC464 second release with extensions. The main intention to try replace as much DIP with SMD as possible and have it as small as reasonably possible, with a standard board footprint that can later fit a 3D printed case that doesn't change between revisions. Latest versions, with everything on them, function as a 6128. This project is very much a private hobby project for now and is for fun and elements may lack any valid reason. It's been uploaded because of general interest.
 
@@ -54,3 +54,5 @@ Special thanks to Noel Llopis for his amazing test ROM which has been invaluable
 
   [AMSGateArray Gate Replacement Project](https://github.com/codedchip/AMSGateArray)<br>
   [Noel's Amstrad Diagnostics Test Suite](https://github.com/llopis/amstrad-diagnostics)
+
+** More photos to follow **
