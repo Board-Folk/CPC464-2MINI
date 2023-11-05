@@ -2,6 +2,8 @@
 
 An adapter to plug an Amstrad 40007 Gate Array in to a 40010 Socket. It's not a great idea, but if you're stuck.
 
+This is nothing to do with the CPC464-2MINI v5 board, which can't use an original gate array.
+
 # Main points 
 
 * There are many things fundamentally flawed in doing this, including broken addressing, for example it won't boot with a Dandanator and 128K.
