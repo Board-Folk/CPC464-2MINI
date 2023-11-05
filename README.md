@@ -17,19 +17,19 @@ The current version of the main board is v5.3, which uses the AMSGateArray Xilin
 ## Some Main Points
 
 * Regulated 5V operation (centre terminal positive).
-* The main board supports a full size original CPC464 Keyboard, not the later ones with the ribbon cables. An alternative PS/2 interface, which I expect most people will want to use is in the expansions folder.
+* The main board supports a full size original CPC464 Keyboard, **not** the later ones with the flat ribbon cables. An alternative PS/2 interface, which I expect most people will want to use is in the expansions folder.
 * All releases still use 4164 RAM chips. Attempts at replacing these have so far failed due to the dual data bus (separate in and out pins are needed). Any help appreciated on this front, I can send schematics of my best guess so far which didn't work.
 * All resistors and ceramic capacitors are 0805.
 * Later revisions use PLCC32 instead of DIP28 for ROM due to space constraints.
-* The v5 series board now also only supports the AY-3-8910 sound chip. Some board supported the 8912, some both, the 8910 is much more readily available, also significantly cheaper.
+* The v5 series board now also only supports the AY-3-8910 sound chip. Some earlier board supported the 8912, some both, the 8910 is much more readily available, also significantly cheaper. To note, you **can't** use an AY-3-8912 emulation board (well none that I've seen) with an Amstrad, they don't do the IO functions needed only sound.
 * Some revisions of the board use a QFP44 Z80 not DIP40, including the latest revision, please check.
 * Tape support changed for v5 on a different header needing an expansion card which hasn't been finished yet. Previous versions have a header compatible with the original 464 tape drive, and an adapter board for 3.5mm mono audio connections for a regular tape recorder/tapuino etc.
 * There was a Mini-ITX version completed which included the disk interface (basically like a 6128), based on the pre-v5 boards in the Archive folder.
-* As with original Amstrads, if you use an A version AY-3, e.g. AY-3-8910A you will need the SIP9 10K pullup resistor NR1 or your keyboard and joystick will not work correctly.
+* As with original Amstrad CPCs of this generation, if you use the often more common A version AY-3 chip, e.g. AY-3-8910A you will need the SIP9 10K pullup resistor NR1 or your keyboard and joystick will not work correctly.
 
 ## Expansions
 
-Expansion boards will be added over time. I'll try to place a big note in each readme which boards have not been tested where they've not. You'll probably want the edge connector, MINIDDI and PS/2 interfaces.
+Expansion boards will be added over time. I'll try to place a big note in each readme which boards have not been tested. You'll probably want the Edge Connector, MINIDDI and PS/2 interfaces.
 
 Internal expansion boards stack vertically over a 2x25 pin header. Be warned, the rows for this are inverted from common secondary 6128 expansion cards that may already exist, though they typically need expansion adapter boards anyway for which there is one for this board. As things are at the moment each expansion card presents two headers for this to allow more options for stacking if you can't find the right socket/headers to stack directly. The primary expansions are:
 
