@@ -2,6 +2,8 @@
 
 CPC464-2MINI v5.3 Main Board
 
+** Version 5 boards can't use an original Amstrad Gate array **
+
 # Main points for this release
 
 * AMSGateArray Xilinx based Gate Array
