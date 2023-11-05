@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CPC464-MINI")(type "KiCad")(uri "${KIPRJMOD}/CPC464-MINI.pretty")(options "")(descr ""))
+  (lib (name "AMSTRAD")(type "KiCad")(uri "${KIPRJMOD}/AMSTRAD.pretty")(options "")(descr ""))
+)

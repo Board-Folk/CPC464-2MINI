@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CPC464-MINI")(type "KiCad")(uri "${KIPRJMOD}/CPC464-MINI.pretty")(options "")(descr ""))
+  (lib (name "MTKeyboard")(type "KiCad")(uri "${KIPRJMOD}/MTKeyboard.pretty")(options "")(descr ""))
+  (lib (name "DDI1")(type "KiCad")(uri "${KIPRJMOD}/DDI1.pretty")(options "")(descr ""))
+  (lib (name "Arduino")(type "KiCad")(uri "${KIPRJMOD}/Arduino.pretty")(options "")(descr ""))
+)

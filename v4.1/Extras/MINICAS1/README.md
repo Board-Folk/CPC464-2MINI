@@ -1,0 +1,3 @@
+# CPC464-2MINICAS1
+
+Upper 64K Board for the CPC464-2MINI v4

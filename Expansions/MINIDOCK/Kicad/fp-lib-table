@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "CPC464-MINI")(type "KiCad")(uri "${KIPRJMOD}/CPC464-MINI.pretty")(options "")(descr ""))
+  (lib (name "DDI1")(type "KiCad")(uri "${KIPRJMOD}/DDI1.pretty")(options "")(descr ""))
+)

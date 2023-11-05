@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Amstrad")(type "KiCad")(uri "${KIPRJMOD}/Amstrad.kicad_sym")(options "")(descr ""))
+  (lib (name "CPC464-MINI")(type "KiCad")(uri "${KIPRJMOD}/CPC464-MINI.kicad_sym")(options "")(descr ""))
+)

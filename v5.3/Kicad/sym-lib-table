@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Amstrad")(type "KiCad")(uri "${KIPRJMOD}/Amstrad.kicad_sym")(options "")(descr ""))
+  (lib (name "CPC464-MINI")(type "KiCad")(uri "${KIPRJMOD}/CPC464-MINI.kicad_sym")(options "")(descr ""))
+  (lib (name "ALTGA")(type "KiCad")(uri "${KIPRJMOD}/ALTGA.kicad_sym")(options "")(descr ""))
+  (lib (name "ROM")(type "KiCad")(uri "${KIPRJMOD}/ROM.kicad_sym")(options "")(descr ""))
+)

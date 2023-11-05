@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "MTKeyboard")(type "KiCad")(uri "${KIPRJMOD}/MTKeyboard.pretty")(options "")(descr ""))
+)
