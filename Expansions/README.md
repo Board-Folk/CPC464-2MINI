@@ -8,15 +8,15 @@ Edge connector for original expansion cards, for example the CPC Dandanator or w
 
 * MINIPS/2
 
-Atmega328 / MT8816 Based PS/2 Adapter
+Atmega328 / MT8816 Based PS/2 Keyboard Adapter
 
 * MINIDDI
 
-3.5" Disk and Gotek Interface using the 765 disk controller and Epson SED. Adapter for 3" drives.
+3.5" Disk and Gotek Interface using the 765 disk controller and Epson SED. Standard PC floppy pinout. Adapter for 3" drives.
 
 * MINIDOCK
 
-Expansion to allow the installation of 6128 compatible expansion cards on the top of the system with additional power injection.
+Expansion to allow the installation of 6128 compatible expansion cards on the top of the system with additional 5V power injection.
 
 * MINIRS232C
 
