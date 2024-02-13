@@ -2,6 +2,8 @@
 
 This ended up as a side project to try combine a few things, and well, to see if it fits. This last release works well anyway. It needs a 40010 though or Xilinx with an adapter board, which can sit over the RAM area.
 
+![Built CPC464-2 MiniITX v1.2 Board](https://github.com/Board-Folk/CPC464-2MINI/blob/main/Photos/MINIITX_v1.2_small.png)
+
 # Includes
 
 * Disk Interface
@@ -20,4 +22,4 @@ This ended up as a side project to try combine a few things, and well, to see if
 
 # BOM
 
-To follow. iBOM can be found in BOM folder.
+iBOM can be found in BOM folder.

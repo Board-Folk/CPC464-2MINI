@@ -2,6 +2,8 @@
 
 CPC464-2MINI v4.1 Main Board
 
+![Built CPC464-2MINI v4.1 Board](https://github.com/Board-Folk/CPC464-2MINI/blob/main/Photos/v4.1_edge_tape_ps2_128K_small.png)
+
 # Main points for this release
 
 * Requires original Gate Array, 40010 or 40007 (with adapter). 40007 use impares operation.
@@ -15,4 +17,4 @@ CPC464-2MINI v4.1 Main Board
 
 # BOM
 
-To follow. iBOM can be found in BOM folder.
+iBOM can be found in BOM folder.
