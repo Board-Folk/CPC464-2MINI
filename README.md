@@ -12,7 +12,7 @@ More of the project may be dropped in here over time, kind of a place to sort ou
 
 ## Revisions
 
-The current version of the main board is v5.3, which uses the AMSGateArray Xilinx based gate array replacement linked to in the links section below. Versions v4 and before require an original Amstrad 40010 or 40007 gate array (with adapter) for operation. Use of a 40007 somewhat impares operation especially regarding memory and other expansion compatiblity. Please see the readme file in each revisions folder for version specific information.
+The current version of the main board is v5.3, which uses the AMSGateArray Xilinx based gate array replacement linked to in the links section below. Thank you to all involved with that for this amazing project. Versions v4 and before require an original Amstrad 40010 or 40007 gate array (with adapter) for operation. Use of a 40007 somewhat impares operation especially regarding memory and other expansion compatiblity. Please see the readme file in each revisions folder for version specific information.
 
 ## Some Main Points
 
@@ -27,10 +27,11 @@ The current version of the main board is v5.3, which uses the AMSGateArray Xilin
 * There was a Mini-ITX version completed which included the disk interface (basically like a 6128), based on the pre-v5 boards in the Archive folder.
 * As with original Amstrad CPCs of this generation, if you use the often more common A version AY-3-891x chip, e.g. AY-3-8910A you will need the SIP9 10K pullup resistor NR1 or your keyboard and joystick will not work correctly.
 * All BOMs for now are just automatically generated iBOMs which only reflect the accuracy of the Kicad project they're from so be cautious.
+* No, there's no HDMI port any of those other why didn't you things, feel free to add.
 
 ## Expansions
 
-Expansion boards will be added over time. I'll try to place a big note in each readme which boards have not been tested. You'll probably want the Edge Connector, MINIDDI and PS/2 interfaces.
+Expansion boards will be added over time. I'll try to place a big note in each readme which boards have not been tested. You'll probably want the Edge Connector, MINIDDI and PS/2 interfaces, but also check out the expansions folder.
 
 Internal expansion boards stack vertically over a 2x25 pin header. Be warned, the rows for this are inverted from common secondary 6128 expansion cards that may already exist, though they typically need expansion adapter boards anyway for which there is one for this board. As things are at the moment each expansion card presents two headers for this to allow more options for stacking if you can't find the right socket/headers to stack directly. The primary expansions are:
 
@@ -45,6 +46,8 @@ It was decreed that the main board wasn't going to include the original Amstrad 
 * MINIDDI
 
 A version of the DDI-1 interface modified with the feelings of a 6128 and PPC640 to providing a 3.5" disk or Gotek drive interface. There's an adapter board for 3" drives.
+
+** Check out the expansions folder everything so far **
 
 ## Credits
 
