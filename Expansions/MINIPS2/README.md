@@ -10,4 +10,4 @@ Atmega328 / MT8816 Based PS/2 Adapter for the CPC464-2MINI
 
 # BOM
 
-To follow. iBOM can be found in BOM folder.
+iBOM can be found in BOM folder.
