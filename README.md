@@ -2,13 +2,13 @@
 
 A Mini CPC464
 
-** Work In Progress **
+** Forever Work In Progress **
 
 ![Build v5.2 Board with Edge Connector, PS/2 Interface and MINIDDI](https://github.com/Board-Folk/CPC464-2MINI/blob/main/Photos/v5.2_miniddi_ps2_edge_small.png)
 
-A miniaturised version of Amstrad CPC464 second release with extensions. The main intention to try replace as much DIP with SMD as possible and have it as small as reasonably possible, with a standard board footprint that can later fit a 3D printed case that doesn't change between revisions. Latest versions, with everything on them, function as a 6128. This project is very much a private hobby project for now and is for fun and elements may lack any valid reason. It's been uploaded because of general interest.
+A miniaturised version of Amstrad CPC464 second release with extensions. The main intention to try replace as much DIP with SMD as practically possible and have it as small as reasonably possible, with a standard board footprint that can later fit a 3D printed case that doesn't change between revisions. Latest versions, with everything on them, function as a 6128. This project is very much a private hobby project for now and is for fun and elements may lack any valid reason. It's been uploaded because of general interest.
 
-More of the project may be dropped in here over time, kind of a place to sort out what's happened if you like, and what's working. There have been that many revisions/expansions it's been getting hard to keep track so it's nice to have a place. Things may be flagged as broken or untested where cautiously uploaded.
+More of the project may be dropped in here over time, kind of a place to sort out what's happened if you like, and what's working. There have been that many revisions/expansions it's been getting hard to keep track so it's nice to have a place. Things may be flagged as broken or untested where cautiously uploaded. 
 
 ## Revisions
 
@@ -25,7 +25,8 @@ The current version of the main board is v5.3, which uses the AMSGateArray Xilin
 * Some revisions of the board use a QFP44 Z80 not DIP40, including the latest revision, please check.
 * Tape support changed for v5 on a different header needing an expansion card which hasn't been finished yet. Previous versions have a header compatible with the original 464 tape drive, and an adapter board for 3.5mm mono audio connections for a regular tape recorder/tapuino etc.
 * There was a Mini-ITX version completed which included the disk interface (basically like a 6128), based on the pre-v5 boards in the Archive folder.
-* As with original Amstrad CPCs of this generation, if you use the often more common A version AY-3 chip, e.g. AY-3-8910A you will need the SIP9 10K pullup resistor NR1 or your keyboard and joystick will not work correctly.
+* As with original Amstrad CPCs of this generation, if you use the often more common A version AY-3-891x chip, e.g. AY-3-8910A you will need the SIP9 10K pullup resistor NR1 or your keyboard and joystick will not work correctly.
+* All BOMs for now are just automatically generated iBOMs which only reflect the accuracy of the Kicad project they're from so be cautious.
 
 ## Expansions
 
