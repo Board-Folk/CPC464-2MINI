@@ -12,4 +12,4 @@
 
 # BOM
 
-To follow. iBOM can be found in BOM folder.
+iBOM can be found in BOM folder.

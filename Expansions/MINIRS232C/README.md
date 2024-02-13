@@ -11,4 +11,4 @@ A CPC464-2MINI version of the original Amstrad RS232C adapter modified with an u
 
 # BOM
 
-To follow. iBOM can be found in BOM folder.
+iBOM can be found in BOM folder.
