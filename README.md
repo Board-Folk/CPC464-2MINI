@@ -41,13 +41,13 @@ An ATMEGA328/MT8816 based PS/2 adapter interface that mounts on the left of the 
 
 * MINIEdge Edge Connector
 
-It was decreed that the main board wasn't going to include the original Amstrad edge connector as intended the expansions would be all neat and internal. The edge connector board solders on to the expansion connector on the base to provide the edge connector for traditional CPC expansions. This also has the virtue that the main board doesn't need ENIG, only this.
+It was decided that the main board wasn't going to include the original Amstrad edge connector as intended the expansions would be all neat and internal. The edge connector board solders on to the expansion connector on the base to provide the edge connector for traditional CPC expansions. This also has the virtue that the main board doesn't need ENIG, only this.
 
 * MINIDDI
 
 A version of the DDI-1 interface modified with the feelings of a 6128 and PPC640 to providing a 3.5" disk or Gotek drive interface. There's an adapter board for 3" drives.
 
-** Check out the expansions folder everything so far **
+** Check out the expansions folder for everything so far **
 
 ## Credits
 
